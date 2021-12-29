@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>this is enrollment page</title>
+	
+	<link rel="stylesheet" type="text/css" href="ajax.css">
+</head>
+<body>
+	
+	</div>
+	<div class="for">
+		<form action="http://localhost/2019272033/xml/execute3.php"  method="POST" id="form3" name="form3">	
+		<fieldset>
+			<legend>COURSES </legend>
+
+				<label>COURSE</label>
+				<input type="text" name="course" id="corse"><br><br>
+				<label>DURATION</label>
+				<input type="text"  name="duration" id="duration" onkeypress="validatedata()"  || onclick="validatedata()" >
+				<br><br><br>
+				<label>TOTAL</label>
+				<input type="text" id="price" name="price"><br><br>
+				<br><br>
+				<label style="text-align: left; margin-left: -30px;">SYLLABUS : </label>
+				<p class="deco1" id="syllabus" ></p>
+
+				<br><br><br><br><br><br>
+				 
+				  <input type="submit" name="insert3" value="Next"  class="button" onclick="fetch()">
+
+				 <button type="button" id="subbtn" class="button">OK</button>
+	
+		</fieldset>
+	</form>
+	</div>
+	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="fetch.js"></script>
+<script type="text/javascript" src="form2.js"></script>
+</body>
+</html>
+
+
+
+
+

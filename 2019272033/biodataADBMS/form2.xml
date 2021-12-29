@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sub>
+  <course>java</course>
+  <duration>6</duration>
+  <total>2000</total>
+  <syllabus>Developing a database application using JDBC.
+ Creation of simple servlet based application.
+ Creation of JSF application and managing sessions.</syllabus>
+  
+   <course>python</course>
+  <duration>4</duration>
+  <total>1200</total>
+  <syllabus>Simple Python program implementation using Operators, Conditionals, Iterative Constructs and Functions.
+ Practical - Implementation of a simple calculator.
+ Developing simple applications like calendar, phone directory, to-do lists etc.
+ Flow charts for GCD, Exponent Functions, Fibonacci Series using conditionals and iterative statements.
+ External learning - Recursion vs. Iteration.</syllabus>
+   
+   <course>c</course>
+  <duration>2</duration>
+  <total>1400</total>
+   <syllabus>Flipped classroom on functions.
+External learning - Functions, pointers and macros. Practical - Implementation of programs using Call by Value and Call by Reference mechanism in functions.
+Practical - Implementation of programs using pointer to a functions, structure and memory allocation operators. Practical - Implementation of programs using recursion.
+Suggested Evaluation Methods:
+</syllabus>
+
+  <course>javascript</course>
+  <duration>2</duration>
+  <total>1340</total>
+   <syllabus>JavaScript basics,functions,
+  Date Object,Events,Strings,Arrays,
+  Regular Expressions</syllabus>
+  
+  <course>djando</course>
+  <duration>1</duration>
+  <total>1100</total>
+  <syllabus>COMING SOON........</syllabus>
+  
+</sub>

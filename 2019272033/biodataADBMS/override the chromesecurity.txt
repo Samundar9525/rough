@@ -1,0 +1,19 @@
+to bypass the security of the chrome
+
+
+
+
+cd C:\Program Files (x86)\Google\Chrome\Application
+chrome.exe --user-data-dir="C:\Users\samun(replace with  your folder name)\Documents\my\data" --disable-web-security
+
+
+
+make a folder in my document with name  my
+In my folder make other folder data named data.
+type the above code and make a file with name chrome disable.bat.
+
+
+
+
+
+
